@@ -1,9 +1,10 @@
 # Table of contents
 
 * [LeetCode](README.md)
-* [Easy](easy/README.md)
-  * [Plus\_One](easy/plus_one/README.md)
-    * [rreadme](Easy/Plus_One/rreadme.md)
+* [Easy](easy/plus-one/README.md)
+  * [Plus One](easy/plus-one/README.md)
+* [Medium](medium/maximum-number-of-fish-in-a-grid/index.ts)
+  * [Maximum Number of Fish in a Grid](medium/maximum-number-of-fish-in-a-grid/index.ts)
 
 ## 2026
 
