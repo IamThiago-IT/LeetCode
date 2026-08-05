@@ -7,9 +7,11 @@ A collection of LeetCode problem solutions implemented in TypeScript and Swift, 
 ```
 LeetCode/
 ├── easy/
-│   └── plus-one/                          # LeetCode 66 - Plus One
+│   ├── plus-one/                          # LeetCode 66 - Plus One
+│   └── 3731. Find Missing Elements/       # LeetCode 3731
 ├── medium/
-│   └── maximum-number-of-fish-in-a-grid/  # LeetCode 2658
+│   ├── maximum-number-of-fish-in-a-grid/  # LeetCode 2658
+│   └── 3310. Remove Methods From Project/ # LeetCode 3310
 └── hard/
     └── 1406. Stone Game III/              # LeetCode 1406
 ```
@@ -20,11 +22,13 @@ LeetCode/
 | Problem | Solution | Difficulty |
 |---------|----------|------------|
 | [66. Plus One](https://leetcode.com/problems/plus-one/) | [TypeScript](easy/plus-one/index.ts) | Easy |
+| [3731. Find Missing Elements](https://leetcode.com/problems/find-missing-elements/) | [Swift](easy/3731.%20Find%20Missing%20Elements/main.swift) (em andamento) | Easy |
 
 ### Medium
 | Problem | Solution | Difficulty |
 |---------|----------|------------|
 | [2658. Maximum Number of Fish in a Grid](https://leetcode.com/problems/maximum-number-of-fish-in-a-grid/) | [TypeScript](medium/maximum-number-of-fish-in-a-grid/index.ts) | Medium |
+| [3310. Remove Methods From Project](https://leetcode.com/problems/remove-methods-from-project/) | [Swift](medium/3310.%20Remove%20Methods%20From%20Project/main.swift) (em andamento) | Medium |
 
 ### Hard
 | Problem | Solution | Difficulty |
@@ -44,6 +48,8 @@ npx tsc easy/plus-one/index.ts && node easy/plus-one/index.js
 
 # Swift
 swift hard/1406.\ Stone\ Game\ III/index.swift
+swift "medium/3310. Remove Methods From Project/main.swift"
+swift "easy/3731. Find Missing Elements/main.swift"
 ```
 
 ## Contributing
